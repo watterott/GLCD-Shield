@@ -11,6 +11,9 @@ The GLCD-Shield is a plug-on module with color display (128x128 pixel) and rotar
 * 3.3V - 5V tolerant IOs
 
 
+## [Documentation](http://learn.watterott.com/mi0283qt-adapter/)
+
+
 ## Shop
 * [GLCD-Shield with Rotary-Encoder](http://www.watterott.com/en/Arduino-GLCD-Shield)
 * [GLCD-Shield with Joystick](http://www.watterott.com/en/Arduino-GLCD-Shield-Joystick)
